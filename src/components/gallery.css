@@ -1,0 +1,39 @@
+.gal-title{
+    margin-top: 5rem;
+    color: gray;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.heading{
+    font-size: 4rem;
+}
+
+.gal-title > hr{
+    width: 70%;
+    margin: auto;
+}
+
+.tab-item{
+    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.tab-image{
+    height: 10rem;
+    width: 10rem;
+    filter: drop-shadow(0 0 0.75rem rgb(58, 57, 57));
+    border-radius: 100rem;
+    z-index: 10;
+}
+
+
+
+
+
+
+
+
+
